@@ -1,2 +1,2 @@
 *.csv
-Nonlinear_Particle_Filter/build/
+*/build/
